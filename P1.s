@@ -7,10 +7,6 @@
 
 //Solucion C#
 
-//public static int Sumar(int a, int b) 
-//{
-//    return a + b;
-// }
 
 //SOLUCION ARM64
 
